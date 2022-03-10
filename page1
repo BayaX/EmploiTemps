@@ -1,0 +1,38 @@
+
+ <TR> 
+	<Th> 10:00 11:40</Th>  
+	    <TD rowspan="2"> <center> java </center> </TD> 
+		<TD rowspan="1"><center> anglais </center> </TD> 
+		
+	
+</TR>
+	
+ <TR>
+	<Th> 11:40  13:20 </th> 
+	<TD rowspan="1"> <center> resaux</center> </TD> 
+	<TD rowspan="2"> <center> base des donnes </center> </TD> 
+	<TD rowspan="1"> <center> theorie des lanages </center> </TD> 
+ </TR> 
+ 
+ <TR> 
+	<th> 13:20 14:00 </Th> 
+	<TD rowspan="1"> <center>  </center> </TD> 
+	
+ </TR>
+
+ 
+ <TR> 
+	<th> 14:00 15:30 </Th>  
+	<TD rowspan="2"> <center> C++  </center> </TD>  
+	<TD rowspan="2"> <center> prog web  </center> </TD>
+ </TR>
+
+ 
+ <TR>
+	<th> 15:30 17:00 </Th>  
+ </TR>
+
+ </TABLE>
+</body>
+</head>
+</html>
